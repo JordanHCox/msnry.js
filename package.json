@@ -1,6 +1,6 @@
 {
   "name": "msnry.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight jQuery plugin making masonry layouts easy",
   "main": "dist/msnry.min.js",
   "keywords": ["masonry", "layout", "grid", "jquery", "plugin"],
