@@ -1,0 +1,16 @@
+{
+  "name": "msnry.js",
+  "version": "1.0.0",
+  "description": "A lightweight jQuery plugin making masonry layouts easy",
+  "main": "dist/msnry.min.js",
+  "keywords": ["masonry", "layout", "grid", "jquery", "plugin"],
+  "author": "Jordan Cox",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/msnry.js.git"
+  },
+  "dependencies": {
+    "jquery": "^3.0.0"
+  }
+}
